@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Team Meeting",
+    "date": "2025-06-25",
+    "time": "10:00",
+    "duration": "1h"
+  },
+  {
+    "id": 2,
+    "title": "Client Call",
+    "date": "2025-06-25",
+    "time": "10:30",
+    "duration": "30m"
+  },
+  {
+    "id": 3,
+    "title": "Project Demo",
+    "date": "2025-06-27",
+    "time": "15:00",
+    "duration": "2h"
+  },
+  {
+    "id": 4,
+    "title": "Marketing Brief",
+    "date": "2025-06-28",
+    "time": "11:00",
+    "duration": "1h"
+  },
+  {
+    "id": 5,
+    "title": "Code Review",
+    "date": "2025-06-29",
+    "time": "13:00",
+    "duration": "1.5h"
+  },
+  {
+    "id": 6,
+    "title": "Product Launch",
+    "date": "2025-07-01",
+    "time": "09:00",
+    "duration": "2h"
+  },
+  {
+    "id": 7,
+    "title": "Sprint Planning",
+    "date": "2025-07-01",
+    "time": "14:00",
+    "duration": "1h"
+  },
+  {
+    "id": 8,
+    "title": "Weekly Sync",
+    "date": "2025-07-02",
+    "time": "11:00",
+    "duration": "30m"
+  }
+]
